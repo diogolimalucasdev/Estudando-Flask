@@ -1,0 +1,13 @@
+#como o pycharm ja cria o ambiente virtual pra mim apenas ativei ele com o comando
+
+" .\nomedoambientevirtual\Scripts\activate.bat"
+
+
+#apos instalo o Flask
+
+" pip install Flask "
+
+
+#depois o Flask-Restful
+
+"pip install Flask-Restful"
